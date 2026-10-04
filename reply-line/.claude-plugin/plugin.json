@@ -1,0 +1,5 @@
+{
+  "name": "reply-line",
+  "version": "0.1.0",
+  "description": "Ends each reply with one status line: context fill, usage windows and their resets, each repo's unpushed work, and what the turn did. For sessions watched in an app that draws no status lines."
+}
