@@ -1,0 +1,5 @@
+{
+  "name": "unpushed-line",
+  "version": "0.1.0",
+  "description": "Status line with each repo's uncommitted files and unpushed commits, refreshed after edits, commands and every turn."
+}

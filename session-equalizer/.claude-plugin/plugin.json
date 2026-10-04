@@ -1,0 +1,6 @@
+{
+  "name": "session-equalizer",
+  "version": "0.1.0",
+  "description": "A ten-band equalizer above the prompt that moves with the session's work: reading, finding, editing, writing, shell, tests, git, GitHub, web and other. Red on a failure, flat while waiting on you. /eq hides it.",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "usage-line",
+  "version": "0.1.0",
+  "description": "Status line with the session's context fill and each usage window's use and reset countdown, with a toast before either runs out."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "limit-parking",
+  "version": "0.1.0",
+  "description": "At 95% of a usage window, has Claude stop at a safe point, commit, push and leave a resume note; after the reset, one tap resumes from it.",
+  "types": "./types/index.d.ts"
+}
